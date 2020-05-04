@@ -1,0 +1,6 @@
+name: COVID19
+channels:
+  - conda-forge
+dependencies:
+  - bqplot
+  - voila
